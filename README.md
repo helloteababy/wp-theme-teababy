@@ -15,5 +15,6 @@ Below is the list of plugins this theme used.
 + [WP Mail SMTP](https://wordpress.org/plugins/wp-mail-smtp/)
 + [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
 + [WooCommerce Weight Based Shipping](https://wordpress.org/plugins/weight-based-shipping-for-woocommerce/)
++ [WooCommerce AliPay](https://github.com/wzhih/woocommerce-alipay)
 
 Most of above are free plugins, Jetpack also has a Prmium version that can Cache your videos and backup website. 
