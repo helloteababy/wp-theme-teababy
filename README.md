@@ -16,5 +16,6 @@ Below is the list of plugins this theme used.
 + [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
 + [WooCommerce Weight Based Shipping](https://wordpress.org/plugins/weight-based-shipping-for-woocommerce/)
 + [WooCommerce AliPay](https://github.com/wzhih/woocommerce-alipay)
++ [a3 lazy load](https://wordpress.org/plugins/a3-lazy-load/)
 
 Most of above are free plugins, Jetpack also has a Prmium version that can Cache your videos and backup website. 
