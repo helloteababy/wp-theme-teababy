@@ -36,7 +36,7 @@
                   while ( $loop->have_posts() ) : $loop->the_post();
                 ?>
                 <li style="margin: 0 10px; display: inline;"><span class="mr10">
-                </span><?php the_title(); ?></li>
+                </span><a style="text-decoration: none;" href="<?php echo the_permalink() ?>"  title="<?php the_title(); ?>"  ><?php the_title(); ?></a></li>
                 <?php endwhile; wp_reset_query(); ?>
                </ul>
              </div>
