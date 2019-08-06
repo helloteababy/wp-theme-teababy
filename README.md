@@ -17,5 +17,6 @@ Below is the list of plugins this theme used.
 + [WooCommerce Weight Based Shipping](https://wordpress.org/plugins/weight-based-shipping-for-woocommerce/)
 + [WooCommerce AliPay](https://github.com/wzhih/woocommerce-alipay)
 + [a3 lazy load](https://wordpress.org/plugins/a3-lazy-load/)
++ [Woo Out of Stock Products](https://wordpress.org/plugins/woo-out-of-stock-products/)
 
 Most of above are free plugins, Jetpack also has a Prmium version that can Cache your videos and backup website. 
