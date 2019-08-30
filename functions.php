@@ -25,6 +25,7 @@ function custom_storefront_credit() {
 }
 
 /* Edit required Checkout field */
+/* https://docs.woocommerce.com/document/tutorial-customising-checkout-fields-using-actions-and-filters/ */
 // Hook in
 add_filter( 'woocommerce_default_address_fields' , 'custom_override_default_address_fields' );
 
